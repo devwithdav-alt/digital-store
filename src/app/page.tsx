@@ -1,3 +1,4 @@
+export const dynamic = 'force-dynamic';
 import Link from 'next/link';
 import { Smartphone, Camera, Laptop, Headphones, Keyboard, Gamepad2, Watch, Truck, ShieldCheck, Headset, CreditCard, Speaker } from 'lucide-react';
 import { getSettings } from '@/lib/settings';
